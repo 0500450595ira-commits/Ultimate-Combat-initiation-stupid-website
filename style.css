@@ -1,0 +1,73 @@
+body{
+    background-color: grey;
+}
+.enemies{
+    background-color: rgb(189, 20, 20);
+    padding: 50px;
+    margin: 50px;
+    font-size: 20px;
+    Border: 2px solid black;
+    gap: 90px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+p{
+    color: rgb(220, 220, 220);
+    font-family: Verdana;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+.gears{
+    background-color: rgb(44, 188, 102);
+    padding: 50px;
+    margin: 50px;
+    font-size: 20px;
+    border: 2px solid black;
+}
+.utility{
+    background-color: rgba(44, 188, 102, 0.887);
+    padding: 50px;
+    margin: 50px;
+    font-size: 20px;
+    border: 2px solid black;
+    gap: 50px;
+}
+.refreshers{
+    background-color: rgba(12, 32, 210, 0.887);
+    padding: 50px;
+    margin: 50px;
+    font-size: 20px;
+    border: 2px solid black;
+    gap: 50px;
+}
+
+.active{
+    background-color: rgba(219, 39, 39, 0.887);
+    padding: 50px;
+    margin: 50px;
+    font-size: 20px;
+    border: 2px solid black;
+    gap: 50px;
+}
+.passive{
+    background-color: rgba(167, 167, 44, 0.887);
+    padding: 50px;
+    margin: 50px;
+    font-size: 20px;
+    border: 2px solid black;
+    gap: 50px;
+}
+.achievements{
+    background-color: rgba(242, 211, 8, 0.887);
+    padding: 50px;
+    margin: 50px;
+    font-size: 20px;
+    border: 2px solid black;
+    gap: 50px;
+}
